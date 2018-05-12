@@ -1,10 +1,14 @@
 _repo: The-Usurper-An-Episode-in-Japanese-History_47002
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Alger, Abby Langdon
     alias: Alger, A. L. (Abby Langdon)
     gutenberg_agent_id: '40123'
     url: http://www.gutenberg.org/2009/agents/40123
+covers:
+- cover_type: archival
+  image_path: 47002-h/images/usurper_cover.jpg
 creator:
   author:
     agent_name: Gautier, Judith
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8006
     wikipedia: http://fr.wikipedia.org/wiki/Judith_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47002#The-Usurper-An-Episode-in-Japanese-History
 gutenberg_issued: '2014-09-29'
 gutenberg_type: Text
 identifiers:
